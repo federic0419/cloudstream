@@ -1,5 +1,5 @@
 {
-    "name": "doGiorsHadEnough Extensions",
+    "name": "cloudstream Extensions",
     "icon": "https://your-icon-url.com/icon.png",
     "author": "federic0419",
     "description": "Raccolta di estensioni per CloudStream",
@@ -10,7 +10,7 @@
         "version": "1.0.0",
         "internalName": "AnimeUnity",
         "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/AnimeUnity.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/AnimeUnity.apk"
       },
       {
         "name": "AnimeWorld",
@@ -18,7 +18,7 @@
         "version": "1.0.0",
         "internalName": "AnimeWorld",
         "iconUrl": "https://static.animeworld.so/assets/images/favicon/android-icon-192x192.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/AnimeWorld.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/AnimeWorld.apk"
       },
       {
         "name": "CalcioStreaming",
@@ -26,7 +26,7 @@
         "version": "1.0.0",
         "internalName": "CalcioStreaming",
         "iconUrl": "https://www.calciostreaming.cool/templates/calciostreaming1/images/icons/apple-touch-icon.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/CalcioStreaming.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/CalcioStreaming.apk"
       },
       {
         "name": "CB01",
@@ -34,15 +34,15 @@
         "version": "1.0.0",
         "internalName": "CB01",
         "iconUrl": "https://cb01.uno/favicon-512x512.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/CB01.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/CB01.apk"
       },
       {
         "name": "DaddyLive",
         "description": "Live TV da DaddyLive",
         "version": "1.0.0",
         "internalName": "DaddyLive",
-        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/DaddyLive/live-streaming.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/DaddyLive.apk"
+        "iconUrl": "https://raw.githubusercontent.com/doGior/cloudstream/refs/heads/master/DaddyLive/live-streaming.png",
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/DaddyLive.apk"
       },
       {
         "name": "ExampleProvider",
@@ -50,7 +50,7 @@
         "version": "1.0.0",
         "internalName": "ExampleProvider",
         "iconUrl": "https://your-icon-url.com/example.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/ExampleProvider.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/ExampleProvider.apk"
       },
       {
         "name": "Huhu",
@@ -58,7 +58,7 @@
         "version": "1.0.0",
         "internalName": "Huhu",
         "iconUrl": "https://huhu.to/favicon.ico",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/Huhu.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/Huhu.apk"
       },
       {
         "name": "OnlineSerieTV",
@@ -66,7 +66,7 @@
         "version": "1.0.0",
         "internalName": "OnlineSerieTV",
         "iconUrl": "https://onlineserietv.com/wp-content/uploads/2023/01/cropped-tv-1.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/OnlineSerieTV.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/OnlineSerieTV.apk"
       },
       {
         "name": "StreamingCommunity",
@@ -74,7 +74,7 @@
         "version": "1.0.0",
         "internalName": "StreamingCommunity",
         "iconUrl": "https://streamingcommunity.lu/apple-touch-icon.png?v=2",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/StreamingCommunity.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/StreamingCommunity.apk"
       },
       {
         "name": "ToonItalia",
@@ -82,15 +82,15 @@
         "version": "1.0.0",
         "internalName": "ToonItalia",
         "iconUrl": "https://toonitalia.green/wp-content/uploads/2023/08/favicon.ico",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/ToonItalia.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/ToonItalia.apk"
       },
       {
         "name": "TV",
         "description": "Live TV streaming",
         "version": "1.0.0",
         "internalName": "TV",
-        "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/TV/television.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/TV.apk"
+        "iconUrl": "https://raw.githubusercontent.com/doGior/cloudstream/refs/heads/master/TV/television.png",
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/TV.apk"
       },
       {
         "name": "YouTube",
@@ -98,7 +98,7 @@
         "version": "1.0.0",
         "internalName": "YouTube",
         "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
-        "url": "https://raw.githubusercontent.com/federic0419/doGiorsHadEnough/main/builds/YouTube.apk"
+        "url": "https://raw.githubusercontent.com/federic0419/cloudstream/main/builds/YouTube.apk"
       }
     ]
   }
